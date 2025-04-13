@@ -74,8 +74,7 @@ ML_student-performance/
     └── utils/                # Scripts auxiliares
         └── data_merge.py
 
-
----
+```
 
 ## 🧾 Requisitos
 
