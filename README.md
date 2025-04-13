@@ -88,6 +88,7 @@ Instalar con:
 ```bash
 pip install -r requirements.txt
 
+```
 
 ## 🎥 Presentación
 
